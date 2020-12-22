@@ -56,6 +56,9 @@ Host Install
 
 When installing diyHue directly on the host, you have two installation methods available. An easy automatic installation script or the commands to install it manually. The automatic install is highly recommended and is kept most up to date.
 
+.. note::
+    Running the Host Install whit Python version 3.6 and higher is not possible. Raspbian Buster uses Python version 3.7. 
+
 Automatic install
 ~~~~~~~~~~~~~~~~~
 
